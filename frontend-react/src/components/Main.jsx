@@ -1,9 +1,9 @@
-import React from 'react'
 import Button from './Button'
 
 const Main = () => {
   return (
     <>
+    
     <div className='container'>
         <div className='p-5 text-container text-center bg-light-dark'>
             <h1>PricePath</h1>
@@ -14,6 +14,7 @@ const Main = () => {
 
         </div>
     </div>
+
     </>
   )
 }
